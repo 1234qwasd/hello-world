@@ -1,0 +1,19 @@
+---
+ test: "Hello World!"
+ test: "1234qwasd"
+ pi: 3.14159
+ xmas: true
+ french-hens: 3
+ calling-birds:
+   - test
+   - test
+   - test
+   - test
+ test:
+   test: test
+   test: test1111111
+   test: test
+   test:
+     count: 1
+     location: "test"
+   test: test1111111
